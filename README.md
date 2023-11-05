@@ -14,6 +14,7 @@ Before using this webhook, ensure you have the following prerequisites in place:
 to create rules.
 2. **Confluence API Token**: A Confluence API token to authenticate with your Confluence 
 instance.
+3. **Docker**: Docker engine in order to build the container image.
 
 ## Installation
 
